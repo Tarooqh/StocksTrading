@@ -14,6 +14,6 @@ requests-file==1.4.3
 requests-ftp==0.3.1
 six==1.11.0
 SQLAlchemy==1.2.2
-urllib3==1.22
+urllib3==1.26.5
 wrapt==1.10.11
 xlrd==1.1.0
